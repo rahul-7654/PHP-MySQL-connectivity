@@ -29,6 +29,7 @@ form {
 
 .image img {
   height: 100%;
+  align-items: center;
 }
 
 .main-header {

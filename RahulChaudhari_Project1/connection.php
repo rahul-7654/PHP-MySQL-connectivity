@@ -1,6 +1,6 @@
 <?php
 
-$link=mysqli_connect("localhost","root","YES","project1");
+$link=mysqli_connect("localhost","root","","Rahul_Project1");
 
 if (mysqli_connect_errno())
 {
